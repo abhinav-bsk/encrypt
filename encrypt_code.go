@@ -193,7 +193,7 @@ func decrypt_line(line []byte) (result []byte) {
   return result
 }
 
-func user_input() {
+func User_input() {
   var input string
   screen.Clear()
   screen.MoveTopLeft()
