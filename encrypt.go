@@ -1,4 +1,4 @@
-package encrypt_code
+package encrypt
 
 import (
   "fmt"
